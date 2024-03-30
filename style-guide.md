@@ -1,5 +1,11 @@
 # Front-end Style Guide
+## Git Commands
+- git checkout -b "<branchName>" - להוסיף בראנץ חדש
+- 
 
+- git add. - להוסיף את כל הקבצים
+- git commit -m "<message>"
+- git push
 ## Layout
 
 The designs were created to the following widths:
