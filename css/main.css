@@ -223,3 +223,28 @@
   text-transform: capitalize;
   margin-bottom: 15px;
 }
+
+.new-title{
+  font-family: 'Nunito Sans', sans-serif;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.new-flag{
+  position: fixed;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  width: 500px;
+}
+
+.new-info{
+  font-family: 'Nunito Sans', sans-serif;
+  position: fixed;
+  top: 43%;
+  left: 47%;
+}
